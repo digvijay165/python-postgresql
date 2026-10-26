@@ -1,0 +1,4 @@
+Row count before TRUNCATE: 5
+Table 'students' truncated successfully!
+Row count after TRUNCATE: 0
+Connection closed.

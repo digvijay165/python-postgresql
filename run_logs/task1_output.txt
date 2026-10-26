@@ -1,0 +1,3 @@
+Connected to PostgreSQL server successfully!
+Database 'student_db' created successfully!
+Connection closed.

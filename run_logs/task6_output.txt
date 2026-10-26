@@ -1,0 +1,10 @@
+--- Students with age > 20 ---
+(1, 'Aarav Sharma', 21, 'Computer Science')
+(2, 'Priya Verma', 22, 'Information Technology')
+(4, 'Sneha Kulkarni', 23, 'Data Science')
+(5, 'Vikram Singh', 24, 'Mechanical Engineering')
+
+--- Students enrolled in 'Data Science' ---
+(4, 'Sneha Kulkarni', 23, 'Data Science')
+
+Connection closed.

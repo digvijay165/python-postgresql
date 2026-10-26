@@ -1,0 +1,3 @@
+Enter student name: Enter student age: Enter student course: 
+Record for 'Vikram Singh' inserted successfully using a parameterized query!
+Connection closed.

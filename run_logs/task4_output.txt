@@ -1,0 +1,14 @@
+
+--- Using fetchone() : first record ---
+(1, 'Aarav Sharma', 21, 'Computer Science')
+
+--- Using fetchall() : all records ---
+ID   Name                Age  Course                   
+-------------------------------------------------------
+1    Aarav Sharma        21   Computer Science         
+2    Priya Verma         22   Information Technology   
+3    Rohan Gupta         20   Electronics              
+4    Sneha Kulkarni      23   Data Science             
+
+Total records fetched: 4
+Connection closed.

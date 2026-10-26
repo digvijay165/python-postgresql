@@ -1,0 +1,12 @@
+psql:psql_commands.sql:13: NOTICE:  database "psql_demo_db" does not exist, skipping
+DROP DATABASE
+CREATE DATABASE
+CREATE TABLE
+INSERT 0 3
+ emp_id |  emp_name   |   department    |  salary  
+--------+-------------+-----------------+----------
+      1 | Ananya Rao  | Engineering     | 65000.00
+      2 | Karan Mehta | Marketing       | 48000.00
+      3 | Ishita Nair | Human Resources | 42000.00
+(3 rows)
+

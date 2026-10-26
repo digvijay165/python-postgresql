@@ -1,0 +1,2 @@
+Table 'students' created successfully in database 'student_db'!
+Connection closed.
